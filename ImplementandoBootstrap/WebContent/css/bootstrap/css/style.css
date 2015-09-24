@@ -1,0 +1,21 @@
+/*
+ * style.css
+ */
+ body {
+  padding-top: 50px;
+  background-color:#F5DEB3;
+} 
+
+#TextoEntrada{
+  color:#8B4513;
+}
+
+ 
+
+
+
+Bibliografia Crud 
+-- http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte2/
+-- http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte1/
+-- http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena
+-- http://jquery.com/download/
